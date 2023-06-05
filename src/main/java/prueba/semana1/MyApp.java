@@ -3,8 +3,8 @@ package prueba.semana1;
 /**
  * MyApp.java
  *
- * @autor: Antonio Garces
- * @revisor: Carlos Arranz
+ * @autor: Carlos
+ * @revisor: Carlos
  * @version: 1.0
  */
 public class MyApp {
