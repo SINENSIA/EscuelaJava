@@ -70,8 +70,8 @@ Para utilizar la clase Barco, primero debe instanciar un objeto pasando los argu
 
 ## 1.7. Créditos y atribuciones
 
-Lead Developer - Antoni (@antoni_dev)
-Mentor - Carlos (@blah_blah)
+Lead Developer - 
+Mentor - Carlos 
 
 ## 1.8. License
 
