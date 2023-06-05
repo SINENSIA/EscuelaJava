@@ -3,7 +3,7 @@ package prueba.semana1;
 /**
  * Barco.java Clase para el objecto Barco
  *
- * @autor: Antoni
+ * @autor: Carlos
  * @revisor: Carlos
  * @version: 1.0
  */
