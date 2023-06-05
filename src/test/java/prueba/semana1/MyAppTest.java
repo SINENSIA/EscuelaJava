@@ -14,7 +14,7 @@ import org.junit.Before;
  * JavaDoc Summary.
  *
  * @since 1.0.0
- * @author Carlos Arranz
+ * @author Carlos
  */
 
 public class MyAppTest {
