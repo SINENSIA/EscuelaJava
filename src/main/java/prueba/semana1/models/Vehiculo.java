@@ -1,6 +1,7 @@
-package prueba.semana1;
+package prueba.semana1.models;
 
 import java.util.Date;
+import prueba.semana1.Conducible;
 
 /**
  * Vehiculo.java Clase para el objecto Vehiculo
@@ -228,6 +229,22 @@ public abstract class Vehiculo implements Conducible {
             return false;
         }
 
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o)
+            return true;
+        if (o == null || getClass() != o.getClass())
+            return false;
+
+        Vehiculo vehiculo = (Vehiculo) o;
+        return matricula != null && matricula.equalsIgnoreCase(vehiculo.matricula);
+    }
+
+    @Override
+    public int hashCode() {
+        return matricula != null ? matricula.toLowerCase().hashCode() : 0;
     }
 
 }

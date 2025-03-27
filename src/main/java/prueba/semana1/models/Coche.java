@@ -1,4 +1,4 @@
-package prueba.semana1;
+package prueba.semana1.models;
 
 /**
  * Coche.java Clase para el objecto Coche

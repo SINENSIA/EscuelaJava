@@ -1,4 +1,9 @@
-package prueba.semana1;
+package prueba.semana1.legacy;
+
+import prueba.semana1.models.Vehiculo;
+import prueba.semana1.models.Coche;
+import prueba.semana1.models.Moto;
+import prueba.semana1.models.Barco;
 
 /**
  * VehiculoManager

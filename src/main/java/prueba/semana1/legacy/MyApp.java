@@ -1,4 +1,4 @@
-package prueba.semana1;
+package prueba.semana1.legacy;
 
 /**
  * MyApp.java

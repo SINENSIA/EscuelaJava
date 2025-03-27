@@ -1,4 +1,4 @@
-package prueba.semana1;
+package prueba.semana1.models;
 
 /**
  * Moto.java Clase para el objecto Moto

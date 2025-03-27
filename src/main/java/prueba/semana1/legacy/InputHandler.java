@@ -1,4 +1,4 @@
-package prueba.semana1;
+package prueba.semana1.legacy;
 
 import java.util.Arrays;
 import java.util.List;
