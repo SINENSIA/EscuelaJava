@@ -14,6 +14,7 @@ public class ApiResponse<T> {
         this.timestamp = LocalDateTime.now();
         this.message = "OK";
         this.count = calcularCantidad(data);
+        
     }
 
     public ApiResponse(T data, String message) {
